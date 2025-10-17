@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SpiR8t
-- 🌱 I’m currently learning programming
+I am Guillaume.
+I currently learn computer sciences at Epita in France
 
