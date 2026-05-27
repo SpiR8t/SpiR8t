@@ -1,3 +1,3 @@
 I am Guillaume.
-I currently learn computer sciences at Epita in France
+I currently computer sciences at Epita in France
 
